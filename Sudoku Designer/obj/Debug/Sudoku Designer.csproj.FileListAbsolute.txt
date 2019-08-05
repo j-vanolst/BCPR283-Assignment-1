@@ -1,0 +1,6 @@
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\bin\Debug\Sudoku Designer.exe.config
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\bin\Debug\Sudoku Designer.exe
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\bin\Debug\Sudoku Designer.pdb
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\obj\Debug\Sudoku Designer.csproj.CoreCompileInputs.cache
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\obj\Debug\Sudoku Designer.exe
+C:\Users\Jos\OneDrive - Ara Institute of Canterbury\Year 2\Semester 2\BCPR283\New folder\Sudoku Designer\Sudoku Designer\obj\Debug\Sudoku Designer.pdb
